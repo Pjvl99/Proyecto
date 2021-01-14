@@ -7,5 +7,6 @@ En el repositorio encontrarán:
 - Video del desempeño del proyecto
 - Los archivos python
 
-- El algoritmo que elegí es el que se encarga de sumar los primeros numeros naturales que ustedes elijan.
+
+El algoritmo que elegí es el que se encarga de sumar los primeros numeros naturales que ustedes elijan.
 
